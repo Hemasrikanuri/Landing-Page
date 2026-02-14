@@ -77,4 +77,3 @@ landing-page/
 
 ---
 
-## 📂 Project Structure## 📂 Project Structure
